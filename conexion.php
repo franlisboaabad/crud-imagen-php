@@ -1,6 +1,6 @@
 <?php
 
-$enlace = 'mysql:host=localhost;dbname=prueba';
+$enlace = 'mysql:host=localhost;dbname=imagen';
 $usuario = 'root';
 $pass  = '';
 
